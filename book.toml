@@ -1,0 +1,6 @@
+[book]
+authors = ["Vlad0s"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Мудрость предков"
